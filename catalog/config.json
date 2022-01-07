@@ -1,0 +1,19 @@
+{
+  "tagline": "N+1 problem shooting",
+  "repository": "https://github.com/newrelickk/nr1-np1-shooter.git",
+  "details": "N+1 problem shooting allows you to finding out transaction candidate which have N+1 problems. \nYou can improve application related with N+1 problem quickly and efficiently",
+  "categoryTerms": [],
+  "keywords": ["apm"],
+  "support": {
+    "issues": {
+      "url": "https://github.com/newrelickk/nr1-np1-shooter/issues"
+    },
+    "email": {
+      "address": "tazuma@newrelic.com"
+    },
+    "community": {
+      "url": ""
+    }
+  },
+  "whatsNew": "First commit"
+}

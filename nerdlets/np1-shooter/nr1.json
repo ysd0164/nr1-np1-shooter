@@ -1,0 +1,11 @@
+{
+  "schemaType": "NERDLET",
+  "id": "np1-shooter",
+  "displayName": "N + 1",
+  "context": {
+    "entities": [
+      { "domain": "APM", "type": "APPLICATION" }
+    ]
+  },
+  "description": ""
+}

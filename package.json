@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "nr1-np1-shooter",
+    "version": "0.0.8",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "0acdad5f-68d5-4478-9129-f8dc1b4007ab"
+    },
+    "dependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
