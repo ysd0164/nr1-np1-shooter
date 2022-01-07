@@ -6,11 +6,11 @@ You can publish this application with Github Actions.
 
 1. Please fork this repository
 
-2. Please create / copy USER key. You can create a key [here](https://one.newrelic.com/launcher/api-keys-ui.api-keys-launcher)
+2. Please create / copy USER key. You can create a key [here](https://one.newrelic.com/launcher/api-keys-ui.api-keys-launcher) and The USER key sould be generated for master acccount.
 
 3. Please create "Github Repository secret (Settings > Secrets > New repository secret)" Name=NR_USER_KEY Value=${YOUR USER KEY}
 
-4. Only first time, Please execute "Publish New Relic Application" action
+4. Only first time, Please execute "Publish New Relic Application" action. This task every time failed but you can ignore failure.
 
 ## Overview
 
