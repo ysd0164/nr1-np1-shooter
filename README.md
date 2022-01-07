@@ -10,7 +10,7 @@ You can publish this application with Github Actions.
 
 3. Please create "Github Repository secret (Settings > Secrets > New repository secret)" Name=NR_USER_KEY Value=${YOUR USER KEY}
 
-4. Execute 
+4. Only first time, Please execute "Publish New Relic Application" action
 
 ## Overview
 
