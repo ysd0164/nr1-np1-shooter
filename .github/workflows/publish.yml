@@ -28,7 +28,7 @@ jobs:
       - name: update uuid
         if: failure()
         run: |
-          yes | nr1 nerdpack:uuid -g
+          nr1 nerdpack:uuid -gf
 
       - name: Update files
         if: failure()
